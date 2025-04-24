@@ -1,2 +1,8 @@
-# eg-practicas-2025
-Repostorio para la entrega de prácticas de la cátedra Entornos gráficos de la UTN FRRo
+# Prácticas Entornos gráficos
+
+## Prácticas HMTML
+
+[Práctica N1 HTMLl](pn1_html/README.md)
+
+[Práctica Complementaria HTML5](pn1_html/README.md)
+

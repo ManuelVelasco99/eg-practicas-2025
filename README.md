@@ -4,9 +4,13 @@ Manuel Velasco 44726
 
 Año 2025
 
-## Prácticas HMTML
+## Prácticas HTML
 
 [Práctica N1 HTML](pn1_html/README.md)
 
 [Práctica Complementaria HTML5](pn1_html/README.md)
+
+## Práctica CSS
+
+[Práctica N2 CSS](pn2_css/README.md)
 

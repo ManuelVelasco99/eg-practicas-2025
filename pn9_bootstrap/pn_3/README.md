@@ -6,7 +6,7 @@
 
 ### 3) Crear un componente de tipo card para cada uno de los 4 rectángulos violetas, que se vean de la siguiente manera:
 
-![alt text](image.png)
+![alt text](imagen.png)
 
 
 ### 4) En el rectángulo celeste más grande (el de la esquina inferior derecha), añadir un slider con 3 imágenes.

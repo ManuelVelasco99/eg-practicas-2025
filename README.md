@@ -18,7 +18,7 @@ Año 2025
 
 [Práctica N4 Introducción a PHP](pn4_introduccion_php/README.md)
 
-[Práctica N5 Función mail() y variables de sesión](pn5_fn_mail()_y_variables_de_sesion\README.md)
+[Práctica N5 Función mail() y variables de sesión](pn5_fn_mail()_y_variables_de_sesion/README.md)
 
 ## Práctica Bootstrap
 
